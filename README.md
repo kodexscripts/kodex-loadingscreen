@@ -55,6 +55,34 @@ Built to reflect the quality of your server — now available **completely free*
 
 ---
 
+## 🔗 Quick Links
+🛒 Tebex: https://kodexscripts.tebex.io
+📖 Docs: https://kodexscripts.gitbook.io
+💬 Discord: https://discord.gg/ECBnhHKWjc
+
+---
+
+## 🛠 Support
+
+Free updates and community support available via Discord.
+
+---
+
+## ⚠️ Note
+
+This repository is for showcase purposes only.
+Download is provided via official channels.
+
+---
+
+## 🔷 Status
+
+🟢 Active Development
+
+<p align="center"> <b>Refining the Roleplay Experience</b> </p> ```
+
+---
+
 ## 🔧 Installation
 
 ```bash
