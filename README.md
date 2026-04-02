@@ -79,7 +79,7 @@ Download is provided via official channels.
 
 🟢 Active Development
 
-```<p align="center"> <b>Refining the Roleplay Experience</b> </p>```
+<p align="center"> <b>Refining the Roleplay Experience</b> </p>
 
 
 ## 🔧 Installation
