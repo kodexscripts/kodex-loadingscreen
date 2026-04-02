@@ -24,14 +24,6 @@ Built to reflect the quality of your server — now available **completely free*
 
 ---
 
-## 🎥 Preview
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1487189135868559510/1487200185598869564/KODEX_LOADINGSCREEN_V1.png" width="750">
-</p>
-
----
-
 ## ▶️ Video Showcase
 
 <p align="center">
